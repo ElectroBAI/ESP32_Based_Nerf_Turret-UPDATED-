@@ -21,9 +21,9 @@ A compact, precision-controlled foam dart turret built around an ESP32, featurin
 
 
 Components required:-
-1)ESP32 DEV Board
-2)Servo Motors x2  (sg90/mg90)
-3)Generic DC Motors x2
-4)Motor Driver IC  (L29N/L9110S)
+- 1)ESP32 DEV Board
+- 2)Servo Motors x2  (sg90/mg90)
+- 3)Generic DC Motors x2
+- 4)Motor Driver IC  (L29N/L9110S)
 OPTIONAL:-
-1)Capacitors  for voltage stability  (470uf/1000uf)                                    
+- 1)Capacitors  for voltage stability  (470uf/1000uf)                                    
